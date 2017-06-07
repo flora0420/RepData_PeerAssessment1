@@ -131,7 +131,7 @@ with(avgsteps, plot(interval, meansteps, type = "l",
                     main = "Average number of step taken across all days"))
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
+![](PA1_template_files/figure-html/avgdailysteps-1.png)<!-- -->
 
 2. Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
